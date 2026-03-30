@@ -46,6 +46,7 @@ section.home{
 section.project{
     height: 800px;
     text-align : center;
+    padding-top: 50px;
 }
 section.howto{
     height: 800px;
